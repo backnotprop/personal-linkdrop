@@ -20,3 +20,4 @@ https://www.judyrecords.com/
 
 https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning
 
+https://tailwindcss.com/docs/screen-readers
